@@ -17,4 +17,5 @@ course = "Python course for Beginners"
 # print(course[0:-2]
 # another = course[:]
 name = "Jennifer"
-print(name[1:-1])
+short_name = name[1:-1]
+print(short_name)
