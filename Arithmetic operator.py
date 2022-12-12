@@ -4,13 +4,13 @@
 # print(10 / 3) / this is division operator return floating number
 # print(10 // 3) // this is also division operator which return integer number
 # print(10 % 3) % this is modulis operator which return percent value
-# print(10 ** 3) ** this is power operator
+# print(10 ** 3) ** this is exponentiation operator which work for power of a number
 
 # x = 10
 # x = x + 3
 # print(x)
 
-# augment assignment operator(short form of + , - , * , /)
+# augment assignment operator(short form of + , - , * , /, //)
 x = 10
 x += 3
 # print(x)
