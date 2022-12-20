@@ -12,7 +12,7 @@
 # print("Enjoy your day")
 
 house_price = 1000000
-has_good_credit = True
+has_good_credit = False
 
 if has_good_credit:
     down_payment = 0.1 * house_price
